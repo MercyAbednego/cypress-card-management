@@ -1,0 +1,23 @@
+{
+  "validLogin": {
+    "email": "adminuser",
+    "password": "password",
+    "otp": "123456"
+  },
+
+  "invalidLogin": {
+    "email": "mercy@gmail.com",
+    "password": "Password123",
+    "otp": "123456"
+  },
+
+  "cardRequest": {
+    "accountNumber": "7088175797",
+    "deliveryMethod": "Pickup",
+    "pickupLocation": "Abuja Office"
+  },
+
+  "cardInfo": {
+    "cardNumber": "340006"
+  }
+}
